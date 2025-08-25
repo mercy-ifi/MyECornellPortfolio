@@ -1,6 +1,6 @@
 # MyECornellPortfolio  
 
-This repository documents my projects, exercises, and resources from the **Break Through Tech AI Fellowship (2025–2026)**. It highlights weekly labs, capstone work, and experiments that connect academic learning to real-world applications in machine learning and data science.  
+This repository documents my projects from the **Break Through Tech AI Fellowship (2025–2026)**. It highlights weekly labs, capstone work, and experiments that connect academic learning to real-world applications in machine learning and data science.  
 
 ## Tech Stack  
 - Python 3.11+  
